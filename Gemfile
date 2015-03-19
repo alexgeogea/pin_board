@@ -49,3 +49,5 @@ gem 'devise', '~> 3.4.1'
 gem 'carrierwave', '~> 0.10.0'
 
 gem 'masonry-rails', '~> 0.2.4'
+
+gem 'acts_as_votable', '~> 0.10.0'
